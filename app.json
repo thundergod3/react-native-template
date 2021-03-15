@@ -1,0 +1,12 @@
+{
+  "name": "thrivelive_app",
+  "displayName": "thrivelive_app",
+  "expo": {
+    "name": "thrivelive_app",
+    "slug": "thrivelive_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
